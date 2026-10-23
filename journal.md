@@ -22,3 +22,32 @@
 
 ## Hours spent
 - 1.3
+
+# Day 2 — October 23, 2026
+
+## What I did
+- Learned Python types and strings
+- Solved 4 coding exercises
+- Rewatched 3B1B vectors + Khan Academy vector addition
+- Wrote vector summary in my own words
+
+## What I learned
+- i have learned the data types in python, vector, performs different opperation on strings using coding
+
+## What confused me
+- f-strings want to uderstand more
+
+## Vector summary (in my own words)
+- A vector is entity which had size and value
+- Vector addition is commutative
+- Scalar multiplication is linear algebra operation
+- Dot product is scaler of entire elements in vector
+
+## One question for tomorrow
+- want to understand what are the other operation that we can perform on strings
+
+## Confidence (1-5)
+- 5
+
+## Hours spent
+- 2
